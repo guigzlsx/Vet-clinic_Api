@@ -12,7 +12,7 @@ Bienvenue dans le projet **Vet Clinic API** ! Ce projet est une API pour gérer 
 ## **👥 Membres du Groupe**
 
 - [Le Saux Guillaume](https://github.com/guigzlsx)
-- [Pinau Lionel]
+- Pinau Lionel]*
 
 ## **🛠️ Installation**
 
